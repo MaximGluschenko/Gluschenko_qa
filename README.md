@@ -1,4 +1,4 @@
-[Пример моих тест-кейсов](https://docs.google.com/spreadsheets/d/1N85v5jEuLX0IkSBjCpWf_pmOQ0qMK4-GvrKEObb6MCA/edit#gid=224410608)
+[Пример моих тест-кейсов и чек-листов](https://docs.google.com/spreadsheets/d/1N85v5jEuLX0IkSBjCpWf_pmOQ0qMK4-GvrKEObb6MCA/edit#gid=224410608)
 
 ---
 
